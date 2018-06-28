@@ -181,7 +181,7 @@ class Ui_AddDialog(QtGui.QDialog):
         self.QLabelType.setText(_translate("AddDialog", "Type", None))
         self.comboBoxType.setItemText(0, _translate("AddDialog", "Anime", None))
         self.comboBoxType.setItemText(1, _translate("AddDialog", "Manga", None))
-        self.comboBoxType.setItemText(2, _translate("AddDialog", "Light Web Novel", None))
+        self.comboBoxType.setItemText(2, _translate("AddDialog", "Light Novel", None))
         self.QLabelStatus.setText(_translate("AddDialog", "Status", None))
         self.comboBoxStatus.setItemText(0, _translate("AddDialog", "Ongoing", None))
         self.comboBoxStatus.setItemText(1, _translate("AddDialog", "Complete", None))
